@@ -1,5 +1,5 @@
 # Advent of Code
-My set of solutions (not very efficient) for AoC '22. 
+My set of solutions for AoC '22. 
 
 ### Attempted Challenges
 | Completed | Name                | Day   | Part   | Date      |
